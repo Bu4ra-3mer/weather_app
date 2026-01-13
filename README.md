@@ -32,7 +32,3 @@ https://github.com/user-attachments/assets/1e3708c1-2d66-44de-bd35-a2fabdd18351
 ## 🔌 APIs & Services Used
 - **WeatherAPI**: Fetch real-time weather and forecast data
 
-
-
-For help getting started with Flutter development, view the  
-[online documentation](https://docs.flutter.dev/).
