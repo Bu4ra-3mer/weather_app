@@ -17,13 +17,13 @@ https://github.com/user-attachments/assets/1e3708c1-2d66-44de-bd35-a2fabdd18351
 - Flutter
 - Dart
 - flutter_bloc (Cubit)
-- Dio (HTTP client)
+- HTTP client
 - Weather API
 - Intl (Date formatting)
 
 ## 🧠 Concepts Used
 - Bloc (Cubit) state management
-- API integration using Dio
+- API integration using HTTP
 - Clean separation of UI, logic, and services
 - Handling loading, success, and failure states
 - Dynamic theming based on API data
